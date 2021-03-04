@@ -14,6 +14,23 @@ _December 2020 to Present_
 - Create bugs and proceed with retesting once they are fixed.
 - Daily communication with UX designers, Front and BackEnd developers to understand changes and business requirements.
 
+### Software Manual Tester - Gorilla Logic
+_November 2018 to December 2020_
+
+- Responsible to analyze, design and execute Manual Test cases.
+- Monitoring test cases execution and create exit reports using HP Quality Center and Jira
+- Micro-services and API testing using Postman, SoapUI and Newman for CLI execution.
+- Working in CI using Jenkins.
+- Performance tests using JMeter.
+- Database testing for data validation.
+- Analyze and create Test data to replicate testing scenarios.
+- Daily communication with Test leads and Dev teams.
+- Provide solutions for lack of information about QA Processes
+- Create QA Sub-tasks in Jira
+- Attended Stand-up, Grooming, Retrospective and Test demo meetings about Agile Sprints.
+- Perform UI gap analysis.
+- Work with Back-end and Front-end developers in an Agile methodology.
+
 ```markdown
 Syntax highlighted code block
 
