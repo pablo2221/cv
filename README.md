@@ -1,10 +1,11 @@
-## Luis Pablo Quiros Herrera
+# Luis Pablo Quiros Herrera
 
 ISTQB Certified Software Manual tester responsible to plan and analyze test requirements, design test scenarios, conditions, scripts & test execution. Responsible to apply standard and Delivery Methods for Testing, including leading practices and techniques, manage defects, perform end-to-end test management including test metrics. Also includes database testing, compliance/regulatory testing, packaged application testing. I have worked in different industries like medical, finance, CRM, and marketing campaigns applying testing methodologies across different projects, some of the clients I have worked with are Stryker, Whirlpool, Citibank, Disney, Vicor, 3M, DaVita, Talkpush and Trackvia.
 
 ### Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Software Manual QA Engineer
+_December 2020 to Present_
 
 ```markdown
 Syntax highlighted code block
