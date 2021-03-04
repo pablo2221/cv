@@ -4,7 +4,8 @@ ISTQB Certified Software Manual tester responsible to plan and analyze test requ
 
 # Work Experience
 
-## Software Manual QA Engineer
+### Software Manual QA Engineer
+### Ex2 Outcoding
 _December 2020 to Present_
 
 - Responsible to analyze, design and execute Manual Test cases.
