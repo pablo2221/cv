@@ -49,7 +49,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Linkedin Profile: [GitHub Flavored Markdown](https://www.linkedin.com/in/pablo-q-539569176/).
+Linkedin Profile: [Pablo Quiros Linkedin](https://www.linkedin.com/in/pablo-q-539569176/).
 
 ### Jekyll Themes
 
