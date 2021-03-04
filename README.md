@@ -1,10 +1,8 @@
 ## Luis Pablo Quiros Herrera
 
-You can use the [editor on GitHub](https://github.com/pablo2221/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ISTQB Certified Software Manual tester responsible to plan and analyze test requirements, design test scenarios, conditions, scripts & test execution. Responsible to apply standard and Delivery Methods for Testing, including leading practices and techniques, manage defects, perform end-to-end test management including test metrics. Also includes database testing, compliance/regulatory testing, packaged application testing. I have worked in different industries like medical, finance, CRM, and marketing campaigns applying testing methodologies across different projects, some of the clients I have worked with are Stryker, Whirlpool, Citibank, Disney, Vicor, 3M, DaVita, Talkpush and Trackvia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Work Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
