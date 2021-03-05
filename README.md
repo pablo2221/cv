@@ -31,6 +31,54 @@ _November 2018 to December 2020_
 - Perform UI gap analysis.
 - Work with Back-end and Front-end developers in an Agile methodology.
 
+### SAP Automation Tester - 3M Costa Rica
+_July 2018 to November 2018_
+
+- Software Quality assurance for SAP business flows
+- Script development using Work Certify tool
+- Run testing scenarios using Agile Methodologies
+- Attend daily Scrum meetings
+- Networking with different SAP module teams to understand business flows and getting Master data
+
+### Software Tester - Ex2 Outcoding
+_December 2017 to June 2018_
+
+- Working in an Agile environment with a full stack developer team assuring quality and continuous delivery through the software development life-cycle.
+- Design software test plans, scenarios, scripts, or procedures.
+- Document software defects, using a bug tracking system, and report defects to software developers.
+- Identify, analyze, and document problems with program function, output, online screen, or content.
+- Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.
+- Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.
+- Automation testing using Selenium
+- Making Decisions and Solving Problems - analyzing information and evaluating results to choose the best solution and solve problems.
+- Analyzing Data or Information - Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.
+- Functional, Non-Functional and content testing for applications.
+- Regression and integration testing, Black box, White box
+- Provided estimates about different user stories based on the Agile methodologies.
+- Attended Stand-up, Grooming, Retrospective and Test demo meetings for Agile Sprint.
+- Assure timely response to customer request and concerns
+- Performed bugs tracking and report
+- ADA Testing for people with disabilities as part of the client businesses.
+- Knowledge in Tools as SQL. Toad, My Eclipse
+- In charge of weekly performance reports based to show team capacity, Performance and improvement areas.
+
+### Software Manual Tester - Accenture
+_August 2016 to December 2017_
+
+- Working in an Agile environment for 1.5 year assuring quality and continuous delivery through the software development life-cycle.
+- Prepare test plans and test cases to ensure the product adheres to the system/application requirements.
+- Provided estimates about different user stories based on the Agile methodologies.
+- Performed functional, content and regression testing in UAT and PRV environments.
+- Attended Stand-up, Grooming, Retrospective and Test demo meetings for Agile Sprint.
+- Assure timely response to customer request and concerns
+- Part of the Accenture MaaS Academy team who create new courses based on the Scrum methodologies for Software Quality Assurance Analysts
+- Create and run test cases using HP Quality Center (ALM)
+- Performed bugs tracking and report using HP Quality Center (ALM)
+- ADA Testing for people with disabilities as part of the client businesses.
+- Knowledge in Tools as CCA, NVDA, EXCEL for reports.
+- In charge of weekly performance reports based on Jira data to show team capacity, performance and improvement areas.
+- Constantly created tools to track daily tasks of the Maintenance Support team. This as part of the Accenture automation perspective.
+
 ```markdown
 Syntax highlighted code block
 
