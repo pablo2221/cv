@@ -4,7 +4,6 @@ ISTQB Certified Software Manual tester responsible to plan and analyze test requ
 
 
 Linkedin Profile: [Pablo Quiros Linkedin](https://www.linkedin.com/in/pablo-q-539569176/)
-
 E-mail address: pablo.2221@hotmail.com
 
 # Work Experience
