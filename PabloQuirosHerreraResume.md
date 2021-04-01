@@ -85,19 +85,15 @@ _August 2016 to December 2017_
 
 # Education
 
-Technical Certification DevOps | [Universidad Creativa](https://www.ucreativa.com) | Currently studying
-
-Technical Web Programmer | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2013
-
-Digital Animator | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2013
-
-Executive English for Service Centers (B2) | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2010
+- Technical Certification DevOps | [Universidad Creativa](https://www.ucreativa.com) | Currently studying
+- Technical Web Programmer | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2013
+- Digital Animator | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2013
+- Executive English for Service Centers (B2) | [Instituto Nacional de Aprendizaje](https://www.ina.ac.cr/SitePages/Inicio.aspx) | 2010
 
 # Certifications
 
-Certified Scrum Master | [Scrum Study](https://www.scrumstudy.com)
-
-Foundation ISTQB Certified Tester | [ISTQB](https://www.istqb.org) | Credential ID 19-CTFL-163644-12
+- Certified Scrum Master | [Scrum Study](https://www.scrumstudy.com)
+- Foundation ISTQB Certified Tester | [ISTQB](https://www.istqb.org) | Credential ID 19-CTFL-163644-12
 
 ```markdown
 Syntax highlighted code block
